@@ -20,8 +20,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
 
 
-```
-A définir
+```Git et GitHub
 ```
 
 
